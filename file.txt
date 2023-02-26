@@ -1,2 +1,4 @@
 The first line in master
 The third line is written in master branch
+The second line is written in master branch
+
